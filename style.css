@@ -1,0 +1,15 @@
+$b:#222;
+$num: 20;
+
+@font-face{
+  font-family:'Coop';
+  src: ulr('https://s3-us-west-
+2.amazonaws.com/cdpn.io/383755/black-webfont.woff');
+format('woff');
+  font-weight:normal;
+  font-style:normal;
+}
+
+
+@function stroke($stroke,$color){
+  $shadow
